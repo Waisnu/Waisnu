@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
 <h3 align="center">Hello there! I'm an aspiring Software Engineer with a strong fascination for the ever-evolving world of technology. I thrive on exploring and implementing new tools and techniques in my projects. Looking forward to collaborating and learning with the GitHub community!</h3>
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif" alt="Hello GIF" width="300"/>
+  <img src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif" alt="Hello GIF" width="100%" height="auto"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waisnu&label=Profile%20views&color=0e75b6&style=flat" alt="waisnu" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **my personal projects**
 
-- 🤝 I’m looking for help with [to improve my skills, connect with me!](jhonnvincentarcipe1013@gmail.com)
+- 🤝 I’m looking for help with [to improve my skills, connect with me!](mailto:jhonnvincentarcipe1013@gmail.com)
 
 - 👨‍💻 All of my projects are available at [https://vinfolio.vercel.app](https://vinfolio.vercel.app)
 
