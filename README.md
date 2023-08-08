@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
 <h3 align="center">Hello there! I'm an aspiring Software Engineer with a strong fascination for the ever-evolving world of technology. I thrive on exploring and implementing new tools and techniques in my projects. Looking forward to collaborating and learning with the GitHub community!</h3>
+<hr/>
 <div align="center">
   <img src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif" alt="Hello GIF" width="100%" height="auto"/>
 </div>
@@ -22,6 +23,7 @@
 - 📄 Know about my experiences [http://bitly.ws/RiRd](http://bitly.ws/RiRd)
 
 - ⚡ Fun fact **If it works, it works.**
+  <hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +39,32 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/waisnu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/waisnu" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waisnu&show_icons=true&locale=en&layout=compact" alt="waisnu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waisnu&" alt="waisnu" /></p>
+<p align="left">
+  <a href="https://github.com/Waisnu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+
+<p align="center">
+<a> 
+  <a href="https://github.com/Waisnu"><img alt="" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Waisnu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</p>
+<p align="center">
+  <a href="https://github.com/Waisnu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waisnu&theme=radical&border=7F3FBF&background=0D1117" alt="Vince GitHub streak"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/Waisnu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waisnu&theme=radical" alt="Vince GitHub Contribution"/>
+  </a>
+</p>
+
+
