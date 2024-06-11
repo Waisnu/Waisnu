@@ -10,6 +10,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJ4aXBpZHhlMHhsOWdpbTdrbmU4dnc5cTVldDc0OHh3MDRiMTE1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Hello GIF" width="100%" height="auto"/>
 </div>
+[![GitHub Snake Light](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg)](https://github.com/sy-records)
 
 
 
