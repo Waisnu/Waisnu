@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently very interested in <b>Go Lang</b> 
 
-- 👨‍💻 Check out my projects [https://vinfolio.me](https://vinfolio.me)
+- 👨‍💻 Check out my projects [https://vinfolio.tech](https://vinfolio.tech)
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJ4aXBpZHhlMHhsOWdpbTdrbmU4dnc5cTVldDc0OHh3MDRiMTE1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Hello GIF" width="100%" height="auto"/>
